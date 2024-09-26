@@ -1,7 +1,7 @@
 # Image Processing Packages
 
 Description. 
-The package *my-image-processing* is used for:
+The package *processamento-imagens-matheus* is used for:
 - Processing:
   	- Transfer histogram between two images.
   	- Find differences between two images based on structural similarity 	index (SSIM).
@@ -14,10 +14,10 @@ The package *my-image-processing* is used for:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install *my-image-processing*
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install *processamento-imagens-matheus*
 
 ```bash
-pip install my-image-processing
+pip install processamento-imagens-matheus
 ```
 
 ## Usage
